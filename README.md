@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Asher  
+- 👋 Hi, I’m Asher 
 - 👀 I’m interested in Software Engineering, Project Management and Web Application Development
 - 🌱 I’m currently learning PMP & Scrum Master and improving my existing skills 
 - 💞️ I’m looking to start a career in Software engineering project management. 
